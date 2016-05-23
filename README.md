@@ -4,7 +4,7 @@ This is the official GitHub organization for Brand New Congress. All of the tech
 
 ## Quick Start
 
-Don't want to read much more and just hop in? [Take on one of these newbie friendly issues here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3ABrandNewCongress+label%3Anewbie-friendly+). If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out!
+Don't want to read much more and just hop in? [Take on one of these newbie friendly issues here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3ABrandNewCongress+label%3Anewbie-friendly+) and leave a comment on the issue saying that you are going to tackle it. If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out! Once you have a fix, [open a pull request](#how-to-commit-a-change). 
 
 ## How we work
 
@@ -16,9 +16,11 @@ We organize all our projects on Github. Whenever we have a new feature we want t
 
 We want everyone to be able to contribute to the technology at Brand New Congress and that's why we are organizing everything on Github.  By keeping discussion on Github issues, we keep all discussion contextualized and saved forever so that we minimize the chance of a project dying if the project's maintainer can't keep working on it.  Our goal is to create projects that will last for the next few years and be run by volunteers who may need to hand off project ownership to others from time to time.
 
-## How to commit a change
+## How to contribute
 
-Brand New Congress projects use Gitflow to accept pull requests. To submit a change to a project:
+First, take a look at [the open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Asaikat+user%3ABrandNewCongress).  Claim an issue by leaving a comment saying you are going to try to tackle it. If you aren't sure what to work on, look for issues tagged as 'high-priority' and/or 'newbie-friendly'.
+
+Then, commit some code and submit a change to the relevant project! Brand New Congress projects use Gitflow to accept pull requests. To submit a change to a project:
 
 * Fork the project to your own GitHub account (click "Fork" on the project page in GitHub)
 * Create your feature branch (git checkout -b my-new-feature)
