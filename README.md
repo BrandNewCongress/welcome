@@ -34,7 +34,7 @@ For projects that have no code yet, the relevant issues are on this repo! So if 
 
 When you make a brand new project in this organization, we ask that you do a few things:
 
-* Set up the labels described on [[Where and how we work]].
+* Set up the labels described on [above](#where-and-how-we-work).
 * Add a license to the project. We default to AGPL-v3.0
 * Add a README explaining at least how to run the project from a fresh clone and how to deploy the project
 
