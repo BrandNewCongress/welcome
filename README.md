@@ -27,6 +27,10 @@ Brand New Congress projects use Gitflow to accept pull requests. To submit a cha
 * Create a new Pull Request
 * Each project has a README that (hopefully) explains how to get started and how to run any tests or code validation. You should ensure that your changes use good code style, are appropriately commented, and don't break any tests (if applicable). 
 
+## Design projects
+
+We want to use Github to organize design projects as well, but we are still getting started creating our design infrastructure and brand.  Are you a designer who wants to get involved?  Come drop into our [Slack](http://shift-ops.brandnewcongress.org) and show us some of your work!  
+
 ## How to propose and hear about new projects
 
 For projects that have no code yet, the relevant issues are on this repo! So if you think we should be working on something that we're not, [open an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues). If you want to hear about new projects we decided to work on, [watch this repo](https://github.com/BrandNewCongress/Welcome/subscription).
