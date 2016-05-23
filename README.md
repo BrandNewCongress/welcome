@@ -12,7 +12,6 @@ We organize all our projects on Github. Whenever we have a new feature we want t
 
 * newbie-friendly: Issues that are easy for new people to start working on
 * priority-high: High priority issues
-* priority-medium: Catchall priority
 * priority-low: Nice to haves that we don't want to prioritize
 * status-proposed: Most new issues get this tag. Issues with this tag have not been accepted yet. Anything without this tag is an issue that has been accepted and should be worked on.
 
