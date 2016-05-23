@@ -30,6 +30,14 @@ Brand New Congress projects use Gitflow to accept pull requests. To submit a cha
 
 For projects that have no code yet, the relevant issues are on this repo! So if you think we should be working on something that we're not, [open an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues). If you want to hear about new projects we decided to work on, [watch this repo](https://github.com/BrandNewCongress/Welcome/subscription).
 
+# Checklist for creating a new project
+
+When you make a brand new project in this organization, we ask that you do a few things:
+
+* Set up the labels described on [[Where and how we work]].
+* Add a license to the project. We default to AGPL-v3.0
+* Add a README explaining at least how to run the project from a fresh clone and how to deploy the project
+
 # Our technology stack
 
 All of BNC's data exists in our campaign CRM which is called Nationbuilder. As a result, tools we use will often need to interface with Nationbuilder to get relevant data back into that system. Outside of Nationbuilder, we're open to different tech stacks, but we generally use JavaScript and deploy our projects to Heroku.
