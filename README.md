@@ -6,14 +6,15 @@ This is the official GitHub organization for Brand New Congress. All of the tech
 
 Don't want to read much more and just hop in? [Take on one of these newbie friendly issues here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3ABrandNewCongress+label%3Anewbie-friendly+). If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out!
 
-# Where and how we work
+# How we work
 
 We organize all our projects on Github. Whenever we have a new feature we want to implement or a bug we want to fix, we create an issue in the corresponding Github repository and discuss the issue there. We use labels on Github issues to track work. The labels we use across all our projects are:
 
 * newbie-friendly: Issues that are easy for new people to start working on
 * priority-high: High priority issues
-* priority-low: Nice to haves that we don't want to prioritize
-* status-proposed: Most new issues get this tag. Issues with this tag have not been accepted yet. Anything without this tag is an issue that has been accepted and should be worked on.
+* status-approved: Issues that have been approved and should be worked on!  Anything else is a new issue that has yet to be triaged.
+
+We want everyone to be able to contribute to the technology at Brand New Congress and that's why we are organizing everything on Github.  By keeping discussion on Github issues, we keep all discussion contextualized and saved forever so that we minimize the chance of a project dying if the project's maintainer can't keep working on it.  Our goal is to create projects that will last for the next few years and be run by volunteers who may need to hand off project ownership to others from time to time.
 
 # How to commit a change
 
