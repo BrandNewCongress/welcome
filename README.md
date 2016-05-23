@@ -4,7 +4,7 @@ This is the official GitHub organization for Brand New Congress. All of the tech
 
 ## Quick Start
 
-Don't want to read much more and just hop in? [Take on one of these newbie friendly issues here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3ABrandNewCongress+label%3Anewbie-friendly+) and leave a comment on the issue saying that you are going to tackle it. If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out! Once you have a fix, [open a pull request](#how-to-commit-a-change). 
+Don't want to read much more and just hop in? [Take on one of these newbie friendly issues here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3ABrandNewCongress+label%3Anewbie-friendly+) and leave a comment on the issue saying that you are going to tackle it. If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out! Once you have a fix, [open a pull request](README.md#how-to-commit-a-change). 
 
 ## How we work
 
@@ -43,7 +43,7 @@ For projects that have no code yet, the relevant issues are on this repo! So if 
 
 When you make a brand new project in this organization, we ask that you do a few things:
 
-* Set up the labels described on [above](#where-and-how-we-work).
+* Set up the labels described on [above](README.md#where-and-how-we-work).
 * Add a license to the project. We default to AGPL-v3.0
 * Add a README explaining at least how to run the project from a fresh clone and how to deploy the project
 
