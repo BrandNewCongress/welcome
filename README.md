@@ -53,5 +53,5 @@ Open a pull request on this repository suggesting the change!
 
 # Questions? Comments?
 
-[Create an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues)! Or feel free to come say hi to us on [Slack](shift-ops.brandnewcongress.org).
+[Create an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues)! Or feel free to come say hi to us on [Slack](http://shift-ops.brandnewcongress.org).
 
