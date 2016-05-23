@@ -47,7 +47,11 @@ All of BNC's data exists in our campaign CRM which is called Nationbuilder. As a
 
 Open a pull request on this repository suggesting the change!
 
+# Interested in joining a team other than the tech team?
+
+[Check out the other teams working on Brand New Congress](http://brandnewcongress.org/teams).
+
 # Questions? Comments?
 
-[Create an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues)!
+[Create an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues)! Or feel free to come say hi to us on [Slack](shift-ops.brandnewcongress.org).
 
