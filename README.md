@@ -8,7 +8,9 @@ Don't want to read much more and just hop in? [Take on one of these newbie frien
 
 ## How we work
 
-We organize all our [projects on Github](https://github.com/BrandNewCongress) and the subteams of the BNC tech team are organized around these projects. So, for example, if you want to be a part of the website team, just head over to [the website repository](https://github.com/BrandNewCongress/website) and start working there! Whenever we have a new feature we want to implement or a bug we want to fix, we create an issue in the corresponding Github repository and discuss the issue there. We use labels on Github issues to track work. The labels we use across all our projects are:
+We organize around [projects on Github](https://github.com/BrandNewCongress). Subteams of the tech team are therefore just project teams. So, for example, if you want to be a part of the website team, just head over to [the website repository](https://github.com/BrandNewCongress/website) and start working there! If you want to know what all the available projects are to work on, [take a look at our main projects page](https://github.com/BrandNewCongress). 
+
+Whenever we have a new feature we want to implement or a bug we want to fix, we create an issue in the corresponding Github repository and discuss the issue there. We use labels on Github issues to track work. The labels we use across all our projects are:
 
 * newbie-friendly: Issues that are easy for new people to start working on
 * priority-high: High priority issues
