@@ -1,6 +1,6 @@
 # Welcome to Brand New Congress Tech
  
-This is the official GitHub organization for Brand New Congress. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress).
+This is the official GitHub organization for Brand New Congress. The tech team at Brand New Congress helps all the other teams in the organization work better. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress). 
 
 ## Quick Start
 
@@ -15,8 +15,6 @@ Whenever we have a new feature we want to implement or a bug we want to fix, we 
 * newbie-friendly: Issues that are easy for new people to start working on
 * priority-high: High priority issues
 * status-approved: Issues that have been approved and should be worked on!  Anything else is a new issue that has yet to be triaged.
-
-We want everyone to be able to contribute to the technology at Brand New Congress and that's why we are organizing everything on Github.  By keeping discussion on Github issues, we keep all discussion contextualized and saved forever so that we minimize the chance of a project dying if the project's maintainer can't keep working on it.  Our goal is to create projects that will last for the next few years and be run by volunteers who may need to hand off project ownership to others from time to time.
 
 ## How to contribute
 
