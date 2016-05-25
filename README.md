@@ -31,7 +31,7 @@ Then, commit some code and submit a change to the relevant project! Brand New Co
 
 ## Design projects
 
-We want to use Github to organize design projects as well, but we are still getting started creating our design infrastructure and brand.  Are you a designer who wants to get involved?  Come drop into our [Slack](http://shift-ops.brandnewcongress.org) and show us some of your work!  
+We want to use Github to organize design projects as well, but we are still getting started creating our design infrastructure and brand.  Are you a designer who wants to get involved?  Come drop into our [Slack](http://shift-ops.brandnewcongress.org) and show us some of your work!
 
 ## How to propose and hear about new projects
 
@@ -44,6 +44,15 @@ When you make a brand new project in this organization, we ask that you do a few
 * Set up the labels described on [above](README.md#where-and-how-we-work).
 * Add a license to the project. We default to AGPL-v3.0
 * Add a README explaining at least how to run the project from a fresh clone and how to deploy the project
+
+## How we are structured
+
+Right now, we have a core team of developers (something like the Meteor Development Group for Meteor or the core team on most open source projects) who are responsible for coming up with the tech plan, triaging issues every week, keeping up with the work that all the other teams are doing, taking on urgent work that comes up, onboarding new developers, and being responsible for the maintenance and improvement of specific projects in this organization. We'd like to grow this core team, but we also want to make it possible to be effective even if you cannot commit so much time or take on so much responsibility. So we want everyone who wants to get involved to do so by jumping into our issues, getting a sense of what we're working on, and committing some code! If you are able to put in some work, feel you have a bit of time to commit, and want to take on more responsibility, let one of the current core team members know in Slack and we'd love to have you on board! The current people on the core team are:
+
+1. @adamprice
+1. @rapi
+2. @saikat
+2. @yihpin
 
 ## Our technology stack
 
