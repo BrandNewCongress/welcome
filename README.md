@@ -1,6 +1,6 @@
 # Welcome to the Brand New Congress Dev Team
  
-This is the official GitHub organization for Brand New Congress. The tech team at Brand New Congress is made of developers and designers that help all the other teams in the organization work better. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress).
+This is the official GitHub organization for Brand New Congress. The dev team at Brand New Congress is made of developers and designers that help all the other teams in the organization work better. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress).
 
 ## Quick Start
 
@@ -8,7 +8,7 @@ Don't want to read much more and just hop in? [Take on one of these newbie frien
 
 ## How we work
 
-We organize around [projects on Github](https://github.com/BrandNewCongress). Subteams of the tech team are therefore just project teams. So, for example, if you want to be a part of the website team, just head over to [the website repository](https://github.com/BrandNewCongress/website) and start working there! If you want to know what all the available projects are to work on, [take a look at our main projects page](https://github.com/BrandNewCongress). 
+We organize around [projects on Github](https://github.com/BrandNewCongress). Subteams of the dev team are therefore just project teams. So, for example, if you want to be a part of the website team, just head over to [the website repository](https://github.com/BrandNewCongress/website) and start working there! If you want to know what all the available projects are to work on, [take a look at our main projects page](https://github.com/BrandNewCongress). 
 
 Whenever we have a new feature we want to implement or a bug we want to fix, we create an issue in the corresponding Github repository and discuss the issue there. We use labels on Github issues to track work. The labels we use across all our projects are:
 
@@ -39,7 +39,7 @@ Right now, we have a core team of developers (something like the Meteor Developm
 2. @saikat
 2. @yihpin
 
-## Interested in joining a team other than the tech team?
+## Interested in joining a team other than the dev team?
 
 [Check out the other teams working on Brand New Congress](http://brandnewcongress.org/teams).
 
