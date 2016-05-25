@@ -1,6 +1,6 @@
-# Welcome to Brand New Congress Tech
+# Welcome to the Brand New Congress Dev Team
  
-This is the official GitHub organization for Brand New Congress. The tech team at Brand New Congress helps all the other teams in the organization work better. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress). 
+This is the official GitHub organization for Brand New Congress. The tech team at Brand New Congress is made of developers and designers that help all the other teams in the organization work better. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress).
 
 ## Quick Start
 
@@ -16,18 +16,11 @@ Whenever we have a new feature we want to implement or a bug we want to fix, we 
 * priority-high: High priority issues
 * status-approved: Issues that have been approved and should be worked on!  Anything else is a new issue that has yet to be triaged.
 
-## How to contribute
+## [How to contribute](https://github.com/BrandNewCongress/welcome/wiki/How-to-Contribute)
 
-First, take a look at [the open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Asaikat+user%3ABrandNewCongress).  Claim an issue by leaving a comment saying you are going to try to tackle it. If you aren't sure what to work on, look for issues tagged as 'high-priority' and/or 'newbie-friendly'.
+## Our technology stack
 
-Then, commit some code and submit a change to the relevant project! Brand New Congress projects use Gitflow to accept pull requests. To submit a change to a project:
-
-* Fork the project to your own GitHub account (click "Fork" on the project page in GitHub)
-* Create your feature branch (git checkout -b my-new-feature)
-* Commit your changes (git commit -am 'Add some feature')
-* Push to the branch (git push origin my-new-feature)
-* Create a new Pull Request
-* Each project has a README that (hopefully) explains how to get started and how to run any tests or code validation. You should ensure that your changes use good code style, are appropriately commented, and don't break any tests (if applicable). 
+All of BNC's data exists in our campaign CRM which is called Nationbuilder. As a result, tools we use will often need to interface with Nationbuilder to get relevant data back into that system. Outside of Nationbuilder, we're open to different tech stacks, but we generally use JavaScript and deploy our projects to Heroku.
 
 ## Design projects
 
@@ -37,15 +30,7 @@ We want to use Github to organize design projects as well, but we are still gett
 
 For projects that have no code yet, the relevant issues are on this repo! So if you think we should be working on something that we're not, [open an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues). If you want to hear about new projects we decided to work on, [watch this repo](https://github.com/BrandNewCongress/Welcome/subscription).
 
-## Checklist for creating a new project
-
-When you make a brand new project in this organization, we ask that you do a few things:
-
-* Set up the labels described on [above](README.md#where-and-how-we-work).
-* Add a license to the project. We default to AGPL-v3.0
-* Add a README explaining at least how to run the project from a fresh clone and how to deploy the project
-
-## How we are structured
+## How our team is structured
 
 Right now, we have a core team of developers (something like the Meteor Development Group for Meteor or the core team on most open source projects) who are responsible for coming up with the tech plan, triaging issues every week, keeping up with the work that all the other teams are doing, taking on urgent work that comes up, onboarding new developers, and being responsible for the maintenance and improvement of specific projects in this organization. We'd like to grow this core team, but we also want to make it possible to be effective even if you cannot commit so much time or take on so much responsibility. So we want everyone who wants to get involved to do so by jumping into our issues, getting a sense of what we're working on, and committing some code! If you are able to put in some work, feel you have a bit of time to commit, and want to take on more responsibility, let one of the current core team members know in Slack and we'd love to have you on board! The current people on the core team are:
 
@@ -54,10 +39,6 @@ Right now, we have a core team of developers (something like the Meteor Developm
 2. @saikat
 2. @yihpin
 
-## Our technology stack
-
-All of BNC's data exists in our campaign CRM which is called Nationbuilder. As a result, tools we use will often need to interface with Nationbuilder to get relevant data back into that system. Outside of Nationbuilder, we're open to different tech stacks, but we generally use JavaScript and deploy our projects to Heroku.
-
 ## Interested in joining a team other than the tech team?
 
 [Check out the other teams working on Brand New Congress](http://brandnewcongress.org/teams).
@@ -65,6 +46,3 @@ All of BNC's data exists in our campaign CRM which is called Nationbuilder. As a
 ## Questions? Comments?
 
 If you think we need to add anything else to this README, open a pull request! If you have a question about a project, comment on an existing issue or create a new issue on this repository!  And if you just want to say hi or have any general questions, join us on [Slack](http://shift-ops.brandnewcongress.org)!
-
-
-
