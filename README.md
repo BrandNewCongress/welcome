@@ -43,6 +43,6 @@ Right now, we have a core team of developers (something like the Meteor Developm
 
 [Check out the other teams working on Brand New Congress](http://brandnewcongress.org/teams).
 
-## Questions? Comments?
+## Questions? Comments? Problems?
 
-If you think we need to add anything else to this README, open a pull request! If you have a question about a project, comment on an existing issue or create a new issue on this repository!  And if you just want to say hi or have any general questions, join us on [Slack](http://shift-ops.brandnewcongress.org)!
+If you think we need to add anything else to this README, open a pull request! If you have a question about a project, comment on an existing issue or create a new issue on this repository!  If you had any trouble with this process, open an issue on this repository as well! And if you just want to say hi or have any general questions, join us on [Slack](http://shift-ops.brandnewcongress.org)!
