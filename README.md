@@ -4,7 +4,7 @@ This is the official GitHub organization for [Brand New Congress](http://http://
 
 ## Quick Start
 
-Don't want to read much more and just hop in? [Take on one of these newbie friendly issues here](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3ABrandNewCongress+label%3Anewbie-friendly+label%3Astatus-approved) and leave a comment on the issue saying that you are going to tackle it. If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out! Once you have a fix, [open a pull request](README.md#how-to-contribute). And feel free to come talk to us on [the ProgCode Slack in #brandnewcongress](http://slack.progcode.co/)!
+Don't want to read much more and just hop in? [Take on one of these newbie friendly issues here](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3ABrandNewCongress+label%3Anewbie-friendly+label%3Astatus-approved) and leave a comment on the issue saying that you are going to tackle it. If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out! Once you have a fix, [open a pull request](README.md#how-to-contribute). And feel free to come talk to us on [the ProgCode Slack in #brandnewcongress](https://docs.google.com/forms/d/e/1FAIpQLSeg0PcO8bGcFQwAPGHCHWhd3iATbkhYpLxgVLN5EKpbSP5R-A/viewform?c=0&w=1&usp=send_form)!
 
 ## Goals for August, 2016
 
