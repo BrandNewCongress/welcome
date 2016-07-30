@@ -43,4 +43,4 @@ For projects that have no code yet, the relevant issues are on this repo! So if 
 
 ## Questions? Comments? Problems? Slack?
 
-If you think we need to add anything else to this README, open a pull request! If you have a question about a project, comment on an existing issue or create a new issue on this repository!  If you had any trouble with this process, open an issue on this repository as well! And if you just want to say hi or have any general questions, join us on [the ProgCode Slack in #brandnewcongress](http://slack.progcode.co/)!
+If you think we need to add anything else to this README, open a pull request! If you have a question about a project, comment on an existing issue or create a new issue on this repository!  If you had any trouble with this process, open an issue on this repository as well! And if you just want to say hi or have any general questions, join us on [the ProgCode Slack in #brandnewcongress](https://docs.google.com/forms/d/e/1FAIpQLSeg0PcO8bGcFQwAPGHCHWhd3iATbkhYpLxgVLN5EKpbSP5R-A/viewform?c=0&w=1&usp=send_form)!
