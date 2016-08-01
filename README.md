@@ -12,6 +12,7 @@ There are a couple big things we want to accomplish for August. Links go to rele
 
 1. [Prepare for our September organizing house parties by creating an event portal for volunteers.](https://github.com/BrandNewCongress/website/issues/87)
 2. [Create a first version of our volunteer portal](https://github.com/BrandNewCongress/website/issues/83)
+3. [Finish porting our site from Nationbuilder to the website repo](https://github.com/BrandNewCongress/website/issues/79)
 
 ## How we work
 
