@@ -38,6 +38,10 @@ We want to use Github to organize design projects as well, but we are still gett
 
 For projects that have no code yet, the relevant issues are on this repo! So if you think we should be working on something that we're not, [open an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues). If you want to hear about new projects we decided to work on, [watch this repo](https://github.com/BrandNewCongress/Welcome/subscription).
 
+## How to request work from the BNC dev team
+
+BNC teams work together by being able to request work from each other. If you are on another BNC team and would like help from the dev team, open an issue on this repository or on the website repository using the "Issues" tab and one of us will discuss the work with you there.  Thanks!
+
 ## Interested in joining a team other than the dev team?
 
 [Check out the other teams working on Brand New Congress](http://brandnewcongress.org/teams).
