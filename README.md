@@ -1,6 +1,6 @@
 # Welcome to the Brand New Congress Dev Team
  
-This is the official GitHub organization for [Brand New Congress](http://http://brandnewcongress.org/). The dev team at Brand New Congress is made of developers and designers that help all the other teams in the organization work better and build tools that will enable volunteers to create a new government in 2018. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress).
+This is the official GitHub organization for [Brand New Congress](http://brandnewcongress.org/). The dev team at Brand New Congress is made of developers and designers that help all the other teams in the organization work better and build tools that will enable volunteers to create a new government in 2018. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress).
 
 ## Quick Start
 
