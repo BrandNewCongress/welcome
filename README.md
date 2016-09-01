@@ -6,14 +6,16 @@ This is the official GitHub organization for [Brand New Congress](http://brandne
 
 Don't want to read much more and just hop in? [Take on one of these newbie friendly issues here](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3ABrandNewCongress+label%3Anewbie-friendly+label%3Astatus-approved) and leave a comment on the issue saying that you are going to tackle it. If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out! Once you have a fix, [open a pull request](README.md#how-to-contribute). And feel free to come talk to us on [the ProgCode Slack in #brandnewcongress](https://docs.google.com/forms/d/e/1FAIpQLSeg0PcO8bGcFQwAPGHCHWhd3iATbkhYpLxgVLN5EKpbSP5R-A/viewform?c=0&w=1&usp=send_form)!
 
-## Goals for August, 2016
+## Goals for September, 2016
 
 There are a couple big things we want to accomplish for August. Links go to relevant issues with discussion.
 
-1. [Prepare for our September organizing house parties by creating an event portal for volunteers.](https://github.com/BrandNewCongress/website/issues/87)
-2. [Create a first version of our volunteer portal](https://github.com/BrandNewCongress/website/issues/83)
-3. [Finish porting our site from Nationbuilder to the website repo](https://github.com/BrandNewCongress/website/issues/79)
-4. [Come up with a set of metrics for overall BNC Dashboard and start creating team-specific metrics with tracking](http://github.com/BrandNewCongress/dashboard)
+1. [Turn livestream page into a general events portal.](https://github.com/BrandNewCongress/website/issues/98).
+2. [Revamp our dashboard and make it something we are looking at daily](https://github.com/BrandNewCongress/dashboard).
+3. [Update our about page](https://github.com/BrandNewCongress/website/issues/131).
+4. Recruit someone to take on day-to-day management of the website.
+5. [Improve our donation experience](https://github.com/BrandNewCongress/website/issues/85).
+6. [Finish our tracking of signups](https://github.com/BrandNewCongress/website/issues/88).
 
 ## How we work
 
