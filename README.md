@@ -35,7 +35,7 @@ All of BNC's data exists in our campaign CRM which is called Nationbuilder. As a
 
 ## Design projects
 
-We want to use Github to organize design projects as well, but we are still getting started creating our design infrastructure and brand.  Are you a designer who wants to get involved?  Come drop into our [Slack](http://shift-ops.brandnewcongress.org) and show us some of your work!
+We want to use Github to organize design projects as well, but we are still getting started creating our design infrastructure and brand.  Are you a designer who wants to get involved?  Come drop into our [Slack](https://docs.google.com/forms/d/e/1FAIpQLSeg0PcO8bGcFQwAPGHCHWhd3iATbkhYpLxgVLN5EKpbSP5R-A/viewform?c=0&w=1&usp=send_form) and show us some of your work! We're in #brandnewcongress.
 
 ## How to propose and hear about new projects
 
