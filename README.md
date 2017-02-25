@@ -6,14 +6,15 @@ This is the official GitHub organization for [Brand New Congress](http://brandne
 
 Don't want to read much more and just hop in? [Take on one of these issues here](https://github.com/BrandNewCongress/welcome/issues) and leave a comment on the issue saying that you are going to tackle it. If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out! Once you have a fix, [open a pull request](README.md#how-to-contribute). And feel free to come talk to us on [the ProgCode Slack in #brandnewcongress](https://docs.google.com/forms/d/e/1FAIpQLSeg0PcO8bGcFQwAPGHCHWhd3iATbkhYpLxgVLN5EKpbSP5R-A/viewform?c=0&w=1&usp=send_form)!
 
-## Goals for January, 2017
+## Priority Issues
 
-There are a couple big things we want to accomplish for January. Links go to relevant issues with discussion.
+Here's our current priority list of simple issues to get your feet wet:
 
-1. [Clean up our Google Analytics](https://github.com/BrandNewCongress/welcome/issues/24)
+1. [Reduce Airtable load](https://github.com/BrandNewCongress/hub/issues/15)
+1. [Add confirmation e-mails for nomination submissions](https://github.com/BrandNewCongress/hub/issues/9)
+1. [Make multiple opt-out levels in e-mail unsubscribes](https://github.com/BrandNewCongress/hub/issues/3)
+1. [Fix errors in API logs](https://github.com/BrandNewCongress/hub/issues/16)
 1. [Make a stylesheet for auto-responder e-mail](https://github.com/BrandNewCongress/hub/issues/2)
-1. [Fix signup call to Nationbuilder](https://github.com/BrandNewCongress/hub/issues/1)
-1. [Create the beginnings of our new Congressional District Info wiki](https://github.com/BrandNewCongress/welcome/issues/23)
 
 ## How we work
 
