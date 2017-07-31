@@ -4,15 +4,17 @@ Welcome to the official GitHub organization for [Brand New Congress](http://bran
 – an effort to to run hundreds of campaigns for Congress in 2018 on a unified message
 taking advantage of shared resources.
 
-All of our candidates support medicare for all; a new Green new deal to revitalize
+All of our candidates support
+1. medicare for all
+* a new Green new deal to revitalize
 our economy, clean up our neighborhoods, and avert the worst of climate chaos; a variety
 of proposals to tackle mass incarceration from all angles; free tuition at public
 universities, sponsored vocational training, paid family leave; a sensible immigration
 system with a path to citizenship; and finally, a swift and forceful reform to
 of the corrupt, corporate controlled, institutions that pass for democracy.
 
-See more about our candidates and platform (here)[https://brandnewcongress.org/candidates]
-and (here)[https://brandnewcongress.org/platform].
+See more about our candidates and platform [here](https://brandnewcongress.org/candidates)
+and [here](https://brandnewcongress.org/platform).
 
 The Brand New Congress dev team is responsible for developing and maintaining:
 1. Our websites, [brandnewcongress.org](http://brandnewcongress.org/), and websites for each of our candidates.
@@ -27,18 +29,18 @@ the congressional makeup of the entire country.
 
 ## Getting Started
 
-First, (introduce yourself!)[https://github.com/BrandNewCongress/welcome/issues/45]
+First, [introduce yourself!](https://github.com/BrandNewCongress/welcome/issues/45)
 
-Second, check out the (`core`)[https://github.com/BrandnewCongress/core] repository –
+Second, check out the [`core`](https://github.com/BrandnewCongress/core) repository –
 it's an Elixir/Phoenix backend with a plain html / ReactJS front-end, and it's possible
 to make valuable contributions to it if you're familiar with only 1 or none of those
 technologies.
 
-After you've got the repository up and running, leave a 👍 on (this issue)[https://github.com/BrandNewCongress/core/issues/28].
+After you've got the repository up and running, leave a 👍 on [this issue](https://github.com/BrandNewCongress/core/issues/28).
 If you run into problems running the code locally, leave a comment there and we'll help out.
 
-Third, check out (the good first contribution issues)[https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+contribution"]
-or general (help wanted)[https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted"].
+Third, check out [the good first contribution issues](https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+contribution")
+or general [help wanted](https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted").
 
 1. Leave a comment saying that you can do it
 1. Fork the repository
@@ -96,5 +98,5 @@ Of course they can! But there's a few reasons why this should not be a concern �
 
 ## Thanks!
 
-Thanks for visiting our Github organization, and we hope you (introduce yourself)[https://github.com/BrandNewCongress/welcome/issues/45]
-and (get started with an issue)[https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+contribution"]!
+Thanks for visiting our Github organization, and we hope you [introduce yourself](https://github.com/BrandNewCongress/welcome/issues/45)
+and [get started with an issue](https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+contribution")!
