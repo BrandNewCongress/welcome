@@ -5,13 +5,12 @@ Welcome to the official GitHub organization for [Brand New Congress](http://bran
 taking advantage of shared resources.
 
 All of our candidates support
-1. medicare for all
-* a new Green new deal to revitalize
-our economy, clean up our neighborhoods, and avert the worst of climate chaos; a variety
-of proposals to tackle mass incarceration from all angles; free tuition at public
-universities, sponsored vocational training, paid family leave; a sensible immigration
-system with a path to citizenship; and finally, a swift and forceful reform to
-of the corrupt, corporate controlled, institutions that pass for democracy.
+* medicare for all
+* a new Green new deal to revitalize our economy, clean up our neighborhoods, and avert the worst of climate chaos
+* a variety of proposals to tackle mass incarceration from all angles
+* free tuition at public universities, sponsored vocational training, paid family leave
+* a sensible immigration system with a path to citizenship
+* and finally, a swift and forceful reform of the corrupt, corporate controlled, institutions that pass for democracy
 
 See more about our candidates and platform [here](https://brandnewcongress.org/candidates)
 and [here](https://brandnewcongress.org/platform).
