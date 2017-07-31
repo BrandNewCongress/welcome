@@ -64,8 +64,9 @@ one component of a larger progressive movement in the United States, which is on
 component of similar global social movements.
 
 This means that:
- * When developing software for our candidates, everything we do can be used by all candidates.
- * If any down-ballot candidate or Canadian outside of the scope of our organization wishes
+
+ * When developing software for our candidates, everything we do can be used by all candidates.
+ * If any down-ballot candidate or Canadian outside of the scope of our organization wishes
     to develop or deploy our software, they are allowed to and we will support their
     use cases (subject of course to our own capacity to meet our organizations needs).
  * We develop everything in full transparency in this GitHub organization
