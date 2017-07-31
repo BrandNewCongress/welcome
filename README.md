@@ -1,41 +1,100 @@
 # Welcome to the Brand New Congress Dev Team
- 
-This is the official GitHub organization for [Brand New Congress](http://brandnewcongress.org/). The dev team at Brand New Congress is made of developers and designers that help all the other teams in the organization work better and build tools that will enable volunteers to create a new government in 2018. All of the technology that we develop is created as open source projects by volunteers and housed in the [Brand New Congress Github repo](https://github.com/BrandNewCongress).
 
-## Quick Start
+Welcome to the official GitHub organization for [Brand New Congress](http://brandnewcongress.org/)
+– an effort to to run hundreds of campaigns for Congress in 2018 on a unified message
+taking advantage of shared resources.
 
-Don't want to read much more and just hop in? [Take on one of these issues here](https://github.com/BrandNewCongress/welcome/issues) and leave a comment on the issue saying that you are going to tackle it. If you see an issue that doesn't have enough context for you to get to work on it, leave a comment asking us to explain more, and one of us will be sure to flesh it out! Once you have a fix, [open a pull request](README.md#how-to-contribute). And feel free to come talk to us on [the ProgCode Slack in #brandnewcongress](https://docs.google.com/forms/d/e/1FAIpQLSeg0PcO8bGcFQwAPGHCHWhd3iATbkhYpLxgVLN5EKpbSP5R-A/viewform?c=0&w=1&usp=send_form)!
+All of our candidates support medicare for all; a new Green new deal to revitalize
+our economy, clean up our neighborhoods, and avert the worst of climate chaos; a variety
+of proposals to tackle mass incarceration from all angles; free tuition at public
+universities, sponsored vocational training, paid family leave; a sensible immigration
+system with a path to citizenship; and finally, a swift and forceful reform to
+of the corrupt, corporate controlled, institutions that pass for democracy.
 
-## Priority Issues
+See more about our candidates and platform (here)[https://brandnewcongress.org/candidates]
+and (here)[https://brandnewcongress.org/platform].
 
-Here's our current priority list of simple issues to get your feet wet:
+The Brand New Congress dev team is responsible for developing and maintaining:
+1. Our websites, [brandnewcongress.org](http://brandnewcongress.org/), and websites for each of our candidates.
+1. The data infrastructure that let's us store our supports data, records of our campaign interactions, etc.
+1. Tools to support the operations of the rest of our organization, specifically the operations of our campaigns
+    in the field. Since our most valuable resource is the time of our staff and volunteers,
+    tools that enable them to operate more efficiently and effectively can have a huge impact.
 
-1. [Reduce Airtable load](https://github.com/BrandNewCongress/hub/issues/15)
-1. [Add confirmation e-mails for nomination submissions](https://github.com/BrandNewCongress/hub/issues/9)
-1. [Make multiple opt-out levels in e-mail unsubscribes](https://github.com/BrandNewCongress/hub/issues/3)
-1. [Fix errors in API logs](https://github.com/BrandNewCongress/hub/issues/16)
-1. [Make a stylesheet for auto-responder e-mail](https://github.com/BrandNewCongress/hub/issues/2)
+Working as a developer here is a once in a lifetime opportunity not to just make
+a large impact in one congressional district, but to have a large role shaping
+the congressional makeup of the entire country.
 
-## How we work
+## Getting Started
 
-We organize around [projects on Github](https://github.com/BrandNewCongress). Subteams of the dev team are therefore just project teams. So, for example, if you want to be a part of the website team, just head over to [the website repository](https://github.com/BrandNewCongress/website) and start working there! If you want to know what all the available projects are to work on, [take a look at our main projects page](https://github.com/BrandNewCongress). 
+First, (introduce yourself!)[https://github.com/BrandNewCongress/welcome/issues/45]
 
-Whenever we have a new feature we want to implement or a bug we want to fix, we create an issue in the corresponding Github repository and discuss the issue there. 
+Second, check out the (`core`)[https://github.com/BrandnewCongress/core] repository –
+it's an Elixir/Phoenix backend with a plain html / ReactJS front-end, and it's possible
+to make valuable contributions to it if you're familiar with only 1 or none of those
+technologies.
 
-## [How to contribute](https://github.com/BrandNewCongress/welcome/wiki/How-to-Contribute)
+After you've got the repository up and running, leave a 👍 on (this issue)[https://github.com/BrandNewCongress/core/issues/28].
+If you run into problems running the code locally, leave a comment there and we'll help out.
 
-## Our technology stack
+Third, check out (the good first contribution issues)[https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+contribution"]
+or general (help wanted)[https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted"].
 
-All of BNC's data exists in our campaign CRM which is called Nationbuilder and we are also using Airtable to track our Candidate nominations and Congressional District research. As a result, tools we use will often need to interface with Nationbuilder to get relevant data back into that system. Outside of Nationbuilder, we're open to different tech stacks, but we generally use JavaScript and deploy our projects to Heroku.
+1. Leave a comment saying that you can do it
+1. Fork the repository
+1. Create a branch for your contribution
+1. Open a pull request
+1. Get it merged
+1. Go tell all of your friends to do the same
 
-## Design projects
+## Where do issues / projects / priorities come from?
 
-We want to use Github to organize design projects as well, but we are still getting started creating our design infrastructure and brand.  Are you a designer who wants to get involved?  Come drop into our [Slack](https://docs.google.com/forms/d/e/1FAIpQLSeg0PcO8bGcFQwAPGHCHWhd3iATbkhYpLxgVLN5EKpbSP5R-A/viewform?c=0&w=1&usp=send_form) and show us some of your work! We're in #brandnewcongress.
+Some issues are bugs / technical enhancements, but other projects come from work
+requests that the technology team receives from the rest of the organization. This
+ensures that everything you work on will be directly used by our around 150
+staff and volunteers (for admin tools) and by 800,000 (and growing) people
+for anything world-facing.
 
-## How to propose and hear about new projects
+## Principles
 
-For projects that have no code yet, the relevant issues are on this repo! So if you think we should be working on something that we're not, [open an issue on this repository](https://github.com/BrandNewCongress/Welcome/issues). If you want to hear about new projects we decided to work on, [watch this repo](https://github.com/BrandNewCongress/Welcome/subscription).
+We're running multiple campaigns, which means that each candidate gets to take
+advantage of solutions and processes developed for the other. Additionally, we are
+one component of a larger progressive movement in the United States, which is one
+component of similar global social movements.
 
-## Questions? Comments? Problems? Slack?
+This means that:
+ * When developing software for our candidates, everything we do can be used by all candidates.
+ * If any down-ballot candidate or Canadian outside of the scope of our organization wishes
+    to develop or deploy our software, they are allowed to and we will support their
+    use cases (subject of course to our own capacity to meet our organizations needs).
+ * We develop everything in full transparency in this GitHub organization
+    with the copyleft A-GPL 3.0 license. This ensures that any improvements made to
+    any fork of our code must be also be open source, and thus made available to the rest
+    the progressive movement.
 
-If you think we need to add anything else to this README, open a pull request! If you have a question about a project, comment on an existing issue or create a new issue on this repository!  If you had any trouble with this process, open an issue on this repository as well! And if you just want to say hi or have any general questions, join us on [the ProgCode Slack in #brandnewcongress](https://docs.google.com/forms/d/e/1FAIpQLSeg0PcO8bGcFQwAPGHCHWhd3iATbkhYpLxgVLN5EKpbSP5R-A/viewform?c=0&w=1&usp=send_form)!
+## But wait – if your code is open source, can't your opponents use it?
+
+Of course they can! But there's a few reasons why this should not be a concern –
+1. Our opponents already have money – whether they are long time establishment Democrats
+    with deep ties to the business class, lobbyists, and consultants or Republicans
+    fitting the same description, they have the money to fund the development
+    of custom solutions. The existence of free and open source versions of some
+    of these tools is thus important for groups that rely on small donations, and
+    much less so for seasoned, well-funded, political machines.
+
+1. Our tools support a method of campaigning that only works for our types of causes –
+    We are developing tools that support grassroots, distributed campaigns that
+    rely heavily on volunteers. Thus, our tools are designed to leverage the enthusiasm
+    that comes with popular support for our platform. Different campaigns have different
+    methods.
+
+1. If our code is released under a copyleft license, no consultancy or political
+    vendor is able to profit off of forking and developing it. Given that
+    establishment political campaigns are closely tied to and depend on these
+    services, its very unlikely that they would choose to lose their competitive
+    advantage by developing all of their code out in the open.
+
+## Thanks!
+
+Thanks for visiting our Github organization, and we hope you (introduce yourself)[https://github.com/BrandNewCongress/welcome/issues/45]
+and (get started with an issue)[https://github.com/BrandNewCongress/core/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+contribution"]!
